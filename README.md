@@ -25,7 +25,7 @@ Attack
 
 ### How To Run the Game ? 
 
-* Clone https://github.com/BizCover/BizCover.Start
+* Clone https://github.com/sarthak-karki/BattleShipGame.git
 * Open the solution file in Visual Studio 
 * Build the solution (Restore and packages will be done here)
 * Run the application (F5) to view console. 
