@@ -3,6 +3,7 @@
 This is a BattleShip game which tries to demonstrate SOLID principle and a TDD approach.
 
 **Currently supports:**
+
 .net Framework : 5.0 
 
 ### Game Rules
